@@ -73,7 +73,7 @@ git commit -m "Resolved merge conflict"
 **Push to Remote**
 - git push origin branch_name
 
-## 👀 Check out the project visuals below for a better understanding of the Git merge conflict resolution process!
+## Finally!- 👀 Check out the project visuals below for a better understanding of the Git merge conflict resolution process!
  -  ![Screenshot 2024-10-27 231352](https://github.com/user-attachments/assets/0f3311e0-2920-41a9-ae40-c40534fe6265)
   
  [And CLICK here(DOWNLOAD THE RAW FILE TO WATCH THE VIDEO ) is the vidoe for the entire process of of the handling of conflicts here ](https://github.com/Rjesh2006/-__Git_Merge_Conflict_Resolution_Demo/blob/main/git-bash-conflict-s-handling_bg.mp4)
