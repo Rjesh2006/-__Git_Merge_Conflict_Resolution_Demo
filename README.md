@@ -84,3 +84,6 @@ git commit -m "Resolved merge conflict"
 -   Conflict Resolution: Essential for effective collaboration in version control.
 
 
+
+## Conclusion
+- **This exercise was an excellent introduction to understanding and resolving Git merge conflicts. Feel free to explore the steps and commands in this repository to strengthen your Git skills! 🌟**
